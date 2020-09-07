@@ -18,6 +18,26 @@ def game_hash
         },
         
         "Reggie Evans" => {
+        :number => 30,
+        :shoe => 14,
+        :points => 12,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 12,
+        :blocks => 12,
+        :slam dunks => 7
+        },
+        
+        "Brook Lopez" => {
+        :number =>,
+        :shoe =>,
+        :points =>,
+        :rebounds =>,
+        :assists =>,
+        :steals =>,
+        :blocks =>,
+        :slam dunks =>
+        },
         
         ]
     },
