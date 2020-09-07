@@ -15,6 +15,7 @@ def game_hash
         :blocks => 1,
         :slam dunks => 1
         },
+        ""
         ]
     },
     :away => {
