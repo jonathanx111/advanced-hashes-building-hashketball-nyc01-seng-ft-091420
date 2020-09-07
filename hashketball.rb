@@ -14,7 +14,7 @@ def game_hash
         :assists => 12,
         :steals => 3,
         :blocks => 1,
-        :slam dunks => 1
+        :slam_dunks => 1
         },
         
         "Reggie Evans" => {
@@ -25,7 +25,7 @@ def game_hash
         :assists => 12,
         :steals => 12,
         :blocks => 12,
-        :slam dunks => 7
+        :slam_dunks => 7
         },
         
         "Brook Lopez" => {
@@ -36,7 +36,7 @@ def game_hash
         :assists => 10,
         :steals => 3,
         :blocks => 1,
-        :slam dunks => 15
+        :slam_dunks => 15
         },
         
         "Mason Plumlee" => {
@@ -47,7 +47,7 @@ def game_hash
         :assists => 6,
         :steals => 3,
         :blocks => 8,
-        :slam dunks => 5
+        :slam_dunks => 5
         },
         
         "Jason Terry" => {
@@ -58,7 +58,7 @@ def game_hash
         :assists => 2,
         :steals => 4,
         :blocks => 11,
-        :slam dunks => 1
+        :slam_dunks => 1
         }
         
         ]
@@ -76,7 +76,7 @@ def game_hash
         :assists => 1,
         :steals => 2,
         :blocks => 7,
-        :slam dunks => 2
+        :slam_dunks => 2
         },
         
         "Bismack Biyombo" => {
@@ -87,7 +87,7 @@ def game_hash
         :assists => 7,
         :steals => 22,
         :blocks => 15,
-        :slam dunks => 10
+        :slam_dunks => 10
         },
         
         "DeSagna Diop" => {
@@ -98,7 +98,7 @@ def game_hash
         :assists => 12,
         :steals => 4,
         :blocks => 5,
-        :slam dunks => 5
+        :slam_dunks => 5
         }, 
         
         "Ben Gordon" => {
@@ -109,7 +109,7 @@ def game_hash
         :assists => 2,
         :steals => 1,
         :blocks => 1,
-        :slam dunks => 0
+        :slam_dunks => 0
         },
         
         "Kemba Walker" => {
@@ -120,7 +120,7 @@ def game_hash
         :assists => 12,
         :steals => 7,
         :blocks => 5,
-        :slam dunks => 12
+        :slam_dunks => 12
         }
         ]
   }
